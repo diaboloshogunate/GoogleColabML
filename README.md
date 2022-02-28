@@ -1,2 +1,2 @@
 # GoogleColabML
-Machine learning practice with google colab
+Machine learning practice/assigments with google colab for school and online courses
